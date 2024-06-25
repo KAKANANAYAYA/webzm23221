@@ -1,1 +1,1 @@
-slert(Hello,Haruki!);
+alert(Hello,Haruki!);
